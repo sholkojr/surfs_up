@@ -20,6 +20,6 @@ The following key takeaways from the above statistics:
 - There 25% of days in the winter that could be anticipated that customer traffic would be affected because of low outdoor temperatures.
 
 ## Summary
-In summary overall temperatures in the summer months are conductive to customer preference for ice cream with vast majority of temperatures above 70.  Winter temperature are cooler with expected reduction in overall foot traffic would be ~25% less as temperatures would be below 69 degrees F which is not conductive to customer preferences.
+In summary overall temperatures in the summer months are more conductive to customer preference for ice cream with vast majority of temperatures above 70.  Winter temperature are cooler with expected reduction in overall foot traffic would be ~25% less as temperatures would be below 69 degrees F which is not conductive to customer preferences.
 
-Further analysis would pull precipitation data to couple with temperature data based on criteria for poor customer foot traffice, including significant rainfall and low temperatures.
+Further analysis would pull precipitation data to couple with temperature data based on criteria for poor customer foot traffic, including significant rainfall and low temperatures.
